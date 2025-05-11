@@ -1,3 +1,5 @@
+# ELEANOR LINDA OPOLO - 189723
+
 # a class-based linked list with the following components:
 
  Attributes: data, next
